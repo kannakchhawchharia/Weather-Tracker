@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import os
 from datetime import date
 # My camping location
 LATITUDE = 37.8651
